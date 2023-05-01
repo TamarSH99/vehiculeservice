@@ -4,9 +4,9 @@ Vehicule service
 Cette application aide les conducteurs de voitures électriques à planifier leur voyage en choisissant une voiture électrique et en fournissant des informations sur les bornes de recharge à proximité tout au long du trajet.
 
 L'utilisateur est fourni avec les informations suivantes sur la voiture électrique : 
-le nom du modèle
-le temps de charge (en minutes)
-l'intervalle de temps pendant lequel la voiture doit être chargée
+le nom du modèle,
+le temps de charge (en minutes),
+l'intervalle de temps pendant lequel la voiture doit être chargée,
 le nombre de sièges.
 ![image](https://user-images.githubusercontent.com/80041512/235482080-b4a63733-478a-44f7-8e64-29f154b0ae21.png)
 
